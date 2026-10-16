@@ -1,6 +1,6 @@
 services:
   - type: web
     name: apicalsoft-assignment
-    runtome: static
+    runtime: static
     buildCommand: ""
     staticPublishPath: ./Frontend
